@@ -15,6 +15,4 @@ Then the generated example-openscad.scad file should be opened in OpenSCAD as st
 Copyright [ThunderFly s.r.o.](https://www.thunderfly.cz/)
 
 
-~~~~~~~~~
-
 Related tool is [yasimtoscad](https://gitlab.com/yasimtoscad/yasimtoscad) wich seems to do a similar job.
